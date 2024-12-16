@@ -2,7 +2,7 @@ import React from "react";
 import Card from "./Card.js";
 import Questions from "./Questions.js";
 import { Link } from "react-router-dom";
-import TopLoader from "react-top-loader";
+import TopLoader from "react-top-loading-bar";
 import { useEffect } from "react";
 import styles from "./Lister.css"
 
